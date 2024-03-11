@@ -1,5 +1,4 @@
 ## Natalya Smetanchuk
-____________
 ### Frontend Developer
 ____________
 #### Contacts:
@@ -50,11 +49,11 @@ if (choice === "внести") {
 
 ***
 #### Education:
-+ University: Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist
++ University: 
+    + Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist
 + Courses: 
    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ****
 #### Languages:
-Russian - native.
-
-English - A1.
++ russian - native:
++ english - A1.
