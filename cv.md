@@ -1,10 +1,11 @@
-### Natalya Smetanchuk
+## Natalya Smetanchuk
 ____________
 ### Frontend Developer
 ____________
 #### Contacts:
 + Location: RF, Krasnoyarsk
 + Phone: +7 950 427 8075
++ Discord: natalismetanchuk
 + Telegram: @NatalyaSmetanchuk
 + E-mail: znataly87@mail.ru
 + GitHub: NatalyaSmetanchuk
@@ -49,12 +50,11 @@ if (choice === "внести") {
 
 ***
 #### Education:
-+ University: Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist;
++ University: Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist
 + Courses: 
    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ****
 #### Languages:
+Russian - native.
 
-Russian - native;
 English - A1.
-
