@@ -24,9 +24,8 @@ ____________
 + JavaScript (Basic)
 + Version control: Git (remote service GitHub)
 + VS Code
-+ Figma, Adobe Photoshop, Illustrator.
-____________
-
++ Figma, Adobe Photoshop, Illustrator
+_____________
 #### Code example:
 
 ```javascript
