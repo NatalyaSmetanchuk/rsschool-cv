@@ -17,7 +17,6 @@ As a person with higher education and a desire for self-improvement, I have a se
 Previous experience has developed in me the ability to study and use large amounts of information, as well as the ability to always complete tasks on time.
 At the moment, I am actively studying frontend development and I think this is exactly the area in which I will be able to realize my potential.
 ____________
-
 #### Skills:
 
 + HTML
