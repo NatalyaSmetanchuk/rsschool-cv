@@ -1,4 +1,4 @@
-## Natalya Smetanchuk
+# Natalya Smetanchuk
 
 ### Frontend Developer
 ____________
@@ -10,14 +10,12 @@ ____________
 + Telegram: @NatalyaSmetanchuk
 + E-mail: znataly87@mail.ru
 + GitHub: NatalyaSmetanchuk
-
 ____________
 
 #### About Me:
 As a person with higher education and a desire for self-improvement, I have a set of skills consisting of constant self-study, the ability to solve problems and work effectively even in the most difficult conditions.
 Previous experience has developed in me the ability to study and use large amounts of information, as well as the ability to always complete tasks on time.
 At the moment, I am actively studying frontend development and I think this is exactly the area in which I will be able to realize my potential.
-
 ____________
 
 #### Skills:
@@ -54,7 +52,6 @@ if (choice === "внести") {
 ____________
 
 #### Experience
-
 ____________
 
 #### Education:
@@ -62,7 +59,6 @@ ____________
     + Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist
 + Courses: 
    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-
 ____________
 
 #### Languages:
