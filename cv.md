@@ -12,13 +12,13 @@ ____________
 + GitHub: NatalyaSmetanchuk
 ____________
 
-#### About Me:
+#### About me
 As a person with higher education and a desire for self-improvement, I have a set of skills consisting of constant self-study, the ability to solve problems and work effectively even in the most difficult conditions.
 Previous experience has developed in me the ability to study and use large amounts of information, as well as the ability to always complete tasks on time.
 At the moment, I am actively studying frontend development and I think this is exactly the area in which I will be able to realize my potential.
 ____________
-#### Skills:
 
+#### Skills
 + HTML
 + CSS/SASS
 + JavaScript (Basic)
@@ -59,6 +59,6 @@ ____________
    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ____________
 
-#### Languages:
+#### Languages
 + Russian - native.
 + English - A1.
