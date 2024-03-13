@@ -1,5 +1,6 @@
-# Natalya Smetanchuk
+## Natalya Smetanchuk
 
+********
 ### Frontend Developer
 ____________
 
