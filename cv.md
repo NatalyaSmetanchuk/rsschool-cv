@@ -58,8 +58,8 @@ ____________
     + Krasnoyarsk State Pedagogical University. Specialty: computer science teacher with an additional specialty teacher-psychologist
 + Courses: 
    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-____________
 
+********
 #### Languages
 + Russian - native.
 + English - A1.
